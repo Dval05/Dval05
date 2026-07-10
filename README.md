@@ -13,7 +13,7 @@
 
 ### About Me
 
-🎓 6th semester Software Engineering student at **Universidad de las Fuerzas Armadas ESPE**.
+🎓 Software Engineering student at **Universidad de las Fuerzas Armadas ESPE**.
 
 🤖 Passionate about **AI agents**, web & mobile development, and building things that solve real problems.
 
