@@ -109,13 +109,12 @@ Interactive route system using graph algorithms (Dijkstra / A*) on a real map of
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Danna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dval05&show_icons=true&hide_border=true&title_color=2D6A4F&icon_color=2D6A4F&text_color=333333&bg_color=ffffff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dval05&layout=compact&hide_border=true&title_color=2D6A4F&text_color=333333&bg_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dval05&hide_border=true&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F&sideLabels=2D6A4F&dates=555555)
 
 </div>
 
