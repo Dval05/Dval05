@@ -231,7 +231,6 @@ Migrated a YOLOv8 reference pipeline to YOLOv11, with interactive inference acro
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dval05/Dval05/main/metrics.svg" width="100%"/>
 
 </div>
 
