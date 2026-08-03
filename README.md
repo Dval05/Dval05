@@ -156,7 +156,7 @@ End-to-end app with auth, interactive maps, booking history, and an integrated c
 
 Dijkstra / A* pathfinding over a C++ backend (Drogon framework), Leaflet map visualization, and GraphHopper for real-world routing & distances.
 
-`C++` `Drogon` `Leaflet` `GraphHopper`
+`C++` `Drogon` `Leaflet` `GraphHopper` `CSS` `HTML`
 
 </td>
 <td width="50%" valign="top">
@@ -231,6 +231,7 @@ Migrated a YOLOv8 reference pipeline to YOLOv11, with interactive inference acro
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Dval05/Dval05/main/metrics.svg" width="100%"/>
 
 </div>
 
