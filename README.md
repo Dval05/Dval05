@@ -39,6 +39,26 @@ student:
 
 <br/>
 
+## 🗓️ My Journey
+
+```
+2023 ─┬─ 🎓 Started Software Engineering @ ESPE
+      │
+2025 ─┼─ 🗺️  Route System in Ecuador — graph algorithms on real map data
+      │
+2026 ─┼─ ⚡ Interct2Hack (USFQ) — built an AI agent in 32 hours
+      │
+      ├─ 🌎 Kasaychi/Inti Churi — Moodle platform for an indigenous community
+      │
+      ├─ 📱 HostSigchos — full mobile app, solo project (Flutter + Firebase)
+      │
+      ├─ 🧠 Brain Tumor Detection — YOLOv11 computer vision pipeline
+      │
+  now ─┴─ 🚀 Open to internships — let's build something together
+```
+
+<br/>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -83,6 +103,21 @@ student:
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anthropic_Claude-D4A94B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv11-2D6A4F?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🌱 Currently Leveling Up
+
+<div align="center">
+
+| Skill | Progress |
+|---|---|
+| Computer Vision (YOLO, OpenCV) | ![](https://progress-bar.xyz/65?title=learning&color=D4A94B) |
+| LLM Agents & Prompt Engineering | ![](https://progress-bar.xyz/75?title=building&color=2D6A4F) |
+| System Design & Architecture | ![](https://progress-bar.xyz/45?title=exploring&color=1a365d) |
+| English Fluency (B2 → C1) | ![](https://progress-bar.xyz/60?title=practicing&color=D4A94B) |
 
 </div>
 
@@ -148,6 +183,21 @@ Migrated a YOLOv8 reference pipeline to YOLOv11, with interactive inference acro
 </div>
 
 <sub>📌 Nota: quité los widgets de "GitHub Stats" y "Streak" porque corren en instancias públicas gratuitas que se caen o se saturan seguido. Si más adelante quieres reactivarlos de forma confiable, la solución es desplegar tu propia instancia (gratis en Vercel, son 2 minutos) — te ayudo con eso si te interesa.</sub>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Interct2Hack_2026-32h_AI_Hackathon-D4A94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅_Codificadas-Competitive_Programming-2D6A4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_English_B2-CEFR_Certified-1a365d?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/🎓_36+-Repositories-D4A94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_4-Featured_Projects-2D6A4F?style=for-the-badge"/>
+
+</div>
 
 <br/>
 
