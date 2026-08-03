@@ -182,8 +182,6 @@ Migrated a YOLOv8 reference pipeline to YOLOv11, with interactive inference acro
 
 </div>
 
-<sub>📌 Nota: quité los widgets de "GitHub Stats" y "Streak" porque corren en instancias públicas gratuitas que se caen o se saturan seguido. Si más adelante quieres reactivarlos de forma confiable, la solución es desplegar tu propia instancia (gratis en Vercel, son 2 minutos) — te ayudo con eso si te interesa.</sub>
-
 <br/>
 
 ## 🏆 Achievements
