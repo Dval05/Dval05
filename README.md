@@ -1,129 +1,199 @@
 <div align="center">
 
-# Hi, I'm Danna 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:2D6A4F&height=220&section=header&text=Hi,%20I'm%20Danna%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20ESPE%20·%20Quito,%20Ecuador%20🇪🇨&descAlignY=58&descSize=18" width="100%"/>
 
-### Software Engineering Student @ ESPE · Quito, Ecuador 🇪🇨
+### Building AI agents that solve real problems 🤖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danna-valentina-andrade-lucio-9605983b6/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dval05&style=for-the-badge&color=2D6A4F&label=PROFILE+VIEWS)](https://github.com/Dval05)
+<br/>
+
+<a href="https://www.linkedin.com/in/danna-valentina-andrade-lucio-9605983b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dval.valentina05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D4A94B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Open_to-Internships-2D6A4F?style=for-the-badge"/>
 
 </div>
 
----
+<br/>
 
-### About Me
+## 🧭 About Me
 
-🎓 Software Engineering student at **Universidad de las Fuerzas Armadas ESPE**.
+```yaml
+student:
+  name: "Danna Valentina Andrade Lucio"
+  degree: "Software Engineering — 6th/8 semesters"
+  university: "Universidad de las Fuerzas Armadas ESPE"
+  location: "Quito, Ecuador 🇪🇨"
+  languages: ["Spanish (Native)", "English (B2 · CEFR)"]
+  focus: ["AI Agents & LLMs", "Web Development", "Mobile Development"]
+  currently_exploring: "Computer Vision (YOLOv11) & Intelligent Agent design"
+  status: "Open to internships & junior software roles 🚀"
+```
 
-🤖 Passionate about **AI agents**, web & mobile development, and building things that solve real problems.
+- 🤖 I build **AI agents** that talk to real people — from micro-merchants asking about sales trends, to interactive learning tools.
+- 🏆 Competed in **2 AI-focused hackathons**, shipping working prototypes for real business challenges under 32-hour sprints.
+- 🌎 I also contribute to **Kasaychi / Inti Churi**, an educational platform for an Ecuadorian indigenous community — combining tech with social impact.
+- 📚 Currently deepening my skills in **Computer Vision**, having just wrapped a brain tumor detection pipeline with YOLOv11.
 
-🏆 Participated in **Interct2Hack** (USFQ · 32h hackathon) building conversational AI agents for real business challenges.
+<br/>
 
-🌐 **English B2** certified (CEFR) · Open to internships and junior positions.
-
----
-
-## 🛠️ Languages & Tools
+## 🧰 Tech Stack
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Frameworks & Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Databases & Backend**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 **Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 **AI & APIs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D4A94B?style=for-the-badge&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D4A94B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv11-2D6A4F?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 📱 HostSigchos
-Flutter mobile app for rural accommodation booking in Sigchos, Ecuador. Features user authentication, interactive maps, booking history, and an integrated chatbot.
+### 🤖 [Mi Contador de Bolsillo](https://github.com/Dval05/DeUna_I2H_TeamCode)
+**AI agent for micro-merchants** — built in 32h at Interct2Hack 2026 (Deuna challenge)
 
-`Flutter` `Firebase` `REST API` `OpenStreetMap`
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Mi Contador de Bolsillo
-Conversational AI agent for micro-merchants. Answers natural language business questions about sales, trends, and customer retention — built at Interct2Hack 2026 (Deuna challenge).
+Answers natural-language business questions ("¿cuál fue mi mejor día?") over real transaction data — no finance background needed, replies in under 5 seconds with plain-language insights and proactive alerts.
 
 `Python` `LLM API` `NLP` `Chat Interface`
 
 </td>
+<td width="50%" valign="top">
 
+### 📱 [HostSigchos](https://github.com/Dval05/HostSigchos-AppMovil)
+**Mobile app for rural accommodation booking** in Sigchos, Ecuador
 
+End-to-end app with auth, interactive maps, booking history, and an integrated chatbot — connecting rural hosts with travelers.
+
+`Flutter` `Firebase` `REST API` `OpenStreetMap`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🗺️ Route System in Ecuador
-Interactive route system using graph algorithms (Dijkstra / A*) on a real map of Ecuador. C++ backend with Drogon, Leaflet frontend, and GraphHopper API integration.
+### 🗺️ [Route System in Ecuador](https://github.com/Dval05/Sistema-de-Rutas-en-Ecuador)
+**Graph-based routing engine** on a real map of Ecuador
 
-`C++` `Drogon` `Leaflet` `GraphHopper` `OpenStreetMap`
+Dijkstra / A* pathfinding over a C++ backend (Drogon framework), Leaflet map visualization, and GraphHopper for real-world routing & distances.
+
+`C++` `Drogon` `Leaflet` `GraphHopper`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Brain Tumor Detection (YOLOv11)
+**Computer vision pipeline** for medical imaging
+
+Migrated a YOLOv8 reference pipeline to YOLOv11, with interactive inference across four tumor classes — built end-to-end in Google Colab.
+
+`Python` `YOLOv11` `Computer Vision`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dval05&hide_border=true&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F&sideLabels=2D6A4F&dates=555555)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dval05&theme=react-dark&hide_border=true&bg_color=0d1117&color=D4A94B&line=2D6A4F&point=ffffff" width="98%"/>
 
 </div>
 
----
+<sub>📌 Nota: quité los widgets de "GitHub Stats" y "Streak" porque corren en instancias públicas gratuitas que se caen o se saturan seguido. Si más adelante quieres reactivarlos de forma confiable, la solución es desplegar tu propia instancia (gratis en Vercel, son 2 minutos) — te ayudo con eso si te interesa.</sub>
+
+<br/>
 
 ## 🏆 Certifications & Events
 
-| | | Year |
-|---|---|---|
-| 🌐 | **English B2 (CEFR)** — ESPE Centro de Educación Continua | 2022 |
-| ⚡ | **Interct2Hack** — 32h AI hackathon @ USFQ | 2026 |
-| 🏅 | **Codificadas** — Competitive programming contest (TCS) | 2026 |
+<div align="center">
+
+| | Achievement | Issuer | Year |
+|:---:|---|---|:---:|
+| 🌐 | **English B2 (CEFR)** — 560h · 8 levels | ESPE Centro de Educación Continua | 2022 |
+| ⚡ | **Interct2Hack** — 32h continuous AI hackathon | Universidad San Francisco de Quito | 2026 |
+| 🏅 | **Codificadas** — Competitive programming (Python/C++) | TCS-sponsored contest | 2026 |
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dval05/Dval05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dval05/Dval05/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dval05/Dval05/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 📈 Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dval05/Dval05/main/metrics.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's connect and build something great!
+
+<a href="https://www.linkedin.com/in/danna-valentina-andrade-lucio-9605983b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dval.valentina05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
